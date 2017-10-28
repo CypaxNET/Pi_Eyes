@@ -1,0 +1,26 @@
+{
+	"picam_WARMUP_TIME": 2.5,
+	"picam_DELTA_TRESH": 5,
+	"picam_RESOLUTION": [640, 480],
+	"picam_FPS": 16,
+	"picam_MIN_AREA": 5000,
+	
+	"cv_DETECT_MOVEMENT": true,
+	
+	"eye_PUPIL_IN_FLIP": true,
+	"eye_LID_TRACKS_PUPIL": true,
+	"eye_PUPIL_MIN": 0.0,
+	"eye_PUPIL_MAX": 1.0,
+	"eye_AUTOBLINK": true,
+	"eye_ANIMATED_IRIS": false,
+	"eye_ANIMATED_IRIS_PATTERN": "",
+	"eye_DOM": "graphics/cyclops-eye.svg",
+	"eye_IRIS_MAP": "graphics/eye_iris.jpg",
+	"eye_SCLERA_MAP": "graphics/eye-sclera.png",
+	"eye_LID_MAP": "graphics/lid.png",
+	
+	"sound_FILE_PATTERN": "sound/what*.ogg",
+	"sound_MIN_DELAY": 10.0,
+	"sound_AMBIENT_LOOP": "None",
+	"sound_AMBIENT_VOLUME": 1.0
+}

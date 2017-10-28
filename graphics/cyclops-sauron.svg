@@ -37,10 +37,10 @@
    id="namedview20"
    showgrid="false"
    inkscape:zoom="11.313709"
-   inkscape:cx="25.095773"
-   inkscape:cy="35.98528"
+   inkscape:cx="57.322528"
+   inkscape:cy="31.815666"
    inkscape:window-x="1272"
-   inkscape:window-y="-8"
+   inkscape:window-y="443"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" />
 <style
@@ -85,13 +85,11 @@
 <path
    id="pupilMax"
    class="st2"
-   d="m 34,14.4 c 5.870225,3.9 9.754933,11.2 9.754933,19.6 0,8.4 -3.884708,15.7 -9.754933,19.6 C 28.129775,49.7 24.245067,42.4 24.245067,34 24.245067,25.6 28.129775,18.3 34,14.4"
+   d="m 33.990188,14.4 c 2.611343,0.3875 3.611428,5.311859 4.602088,8.1125 1.328678,3.756234 1.66911,7.641621 1.739813,11.4875 0.08578,4.665601 0.376377,9.461042 -1.597754,13.962374 -0.90775,2.069812 -1.159994,5.763703 -4.608265,5.762556 -3.446438,-0.0011 -3.669516,-3.697128 -4.595911,-5.762556 C 27.512438,43.463802 27.609662,38.670399 27.648287,34 27.680094,30.153921 28.059422,26.268734 29.3881,22.5125 30.37876,19.711859 31.579748,14.975 33.990188,14.4"
    inkscape:connector-curvature="0"
-   style="fill:none;stroke:#000000;stroke-width:0.26340619;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
-<path
-   id="pupilMin"
-   class="st2"
-   d="M34,15.1c1.8,6,2.8,12.3,2.8,18.9s-1,12.9-2.8,18.9c-1.8-6-2.8-12.3-2.8-18.9S32.2,21.1,34,15.1" />
+   style="fill:none;stroke:#000000;stroke-width:0.30426288;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+   sodipodi:nodetypes="caaaaaaac" />
+
 
 
 
@@ -128,4 +126,10 @@
    id="lowerLidClosed"
    class="st2"
    d="m 67.72569,29.673846 c 0.3,4.4 -1.9,8.7 -10.5,12.8 -6.9,3.3 -14.6,5.1 -23.5,5.1 -8.9,0 -16.6,-1.8 -23.5,-5.1 -8.5000049,-4.1 -10.80000555,-8.4 -10.50000555,-12.8"
-   style="fill:none;stroke:#f00000;stroke-width:0.28349999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /></svg>
+   style="fill:none;stroke:#f00000;stroke-width:0.28349999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" /><path
+   id="pupilMin"
+   class="st2"
+   d="m 33.995991,14.337535 c 0.403103,0.3875 0.557482,5.311859 0.710407,8.1125 0.205103,3.756234 0.257655,7.641621 0.268569,11.4875 0.01324,4.665601 0.0581,9.461042 -0.24664,13.962374 -0.140126,2.069812 -0.179064,5.763703 -0.711361,5.762556 -0.532014,-0.0011 -0.56645,-3.697128 -0.709454,-5.762556 -0.311468,-4.498572 -0.29646,-9.291975 -0.290498,-13.962374 0.0049,-3.846079 0.06347,-7.731266 0.268569,-11.4875 0.152925,-2.800641 0.338317,-7.5375 0.710408,-8.1125"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000;stroke-width:0.24;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+   sodipodi:nodetypes="caaaaaaac" /></svg>
